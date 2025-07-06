@@ -1,0 +1,60 @@
+== predict.php STARTED ==
+Raw input: {"day":1,"month":1,"site_id":1}
+Decoded JSON: {"day":1,"month":1,"site_id":1}
+Calling predictWeather(1, 1, 1)
+Prediction: {"location":"Wynyard","prediction":{"min_temp":14.6,"max_temp":19.7,"min_humidity":61.5,"max_humidity":84.1}}
+== predict.php STARTED ==
+Raw input: {"day": 1, "month": 1, "site_id": 1}
+Decoded JSON: {"day":1,"month":1,"site_id":1}
+Calling predictWeather(1, 1, 1)
+Prediction: {"location":"Wynyard","prediction":{"min_temp":14.6,"max_temp":19.7,"min_humidity":61.5,"max_humidity":84.1}}
+== predict.php STARTED ==
+Raw input: {"day": 1, "month": 1, "site_id": 1}
+Decoded JSON: {"day":1,"month":1,"site_id":1}
+Calling predictWeather(1, 1, 1)
+Prediction: {"location":"Wynyard","prediction":{"min_temp":14.6,"max_temp":19.7,"min_humidity":61.5,"max_humidity":84.1}}
+== predict.php STARTED ==
+Raw input: {"day": 2, "month": 1, "site_id": 1}
+Decoded JSON: {"day":2,"month":1,"site_id":1}
+Calling predictWeather(2, 1, 1)
+Prediction: {"location":"Wynyard","prediction":{"min_temp":13.6,"max_temp":22.1,"min_humidity":58.6,"max_humidity":82.1}}
+== predict.php STARTED ==
+Raw input: {"day": 2, "month": 1, "site_id": 1}
+Decoded JSON: {"day":2,"month":1,"site_id":1}
+Calling predictWeather(2, 1, 1)
+Prediction: {"location":"Wynyard","prediction":{"min_temp":13.6,"max_temp":22.1,"min_humidity":58.6,"max_humidity":82.1}}
+== predict.php STARTED ==
+Raw input: {"day": 1, "month": 1, "site_id": 1}
+Decoded JSON: {"day":1,"month":1,"site_id":1}
+Calling predictWeather(1, 1, 1)
+Prediction: {"location":"Wynyard","prediction":{"min_temp":14.6,"max_temp":19.7,"min_humidity":61.5,"max_humidity":84.1}}
+== predict.php STARTED ==
+Raw input: {"day": 2, "month": 1, "site_id": 2}
+Decoded JSON: {"day":2,"month":1,"site_id":2}
+Calling predictWeather(2, 1, 2)
+Prediction: {"location":"Launceston","prediction":{"min_temp":14.6,"max_temp":23.7,"min_humidity":40.4,"max_humidity":76}}
+== predict.php STARTED ==
+Raw input: {"day": 2, "month": 1, "site_id": 1}
+Decoded JSON: {"day":2,"month":1,"site_id":1}
+Calling predictWeather(2, 1, 1)
+Prediction: {"location":"Wynyard","prediction":{"min_temp":13.6,"max_temp":22.1,"min_humidity":58.6,"max_humidity":82.1}}
+== predict.php STARTED ==
+Raw input: {"day": 2, "month": 1, "site_id": 1}
+Decoded JSON: {"day":2,"month":1,"site_id":1}
+Calling predictWeather(2, 1, 1)
+Prediction: {"location":"Wynyard","prediction":{"min_temp":13.6,"max_temp":22.1,"min_humidity":58.6,"max_humidity":82.1}}
+== predict.php STARTED ==
+Raw input: {"day": 1, "month": 1, "site_id": 1}
+Decoded JSON: {"day":1,"month":1,"site_id":1}
+Calling predictWeather(1, 1, 1)
+Prediction: {"location":"Wynyard","prediction":{"min_temp":14.6,"max_temp":19.7,"min_humidity":61.5,"max_humidity":84.1}}
+== predict.php STARTED ==
+Raw input: {"day": 2, "month": 1, "site_id": 2}
+Decoded JSON: {"day":2,"month":1,"site_id":2}
+Calling predictWeather(2, 1, 2)
+Prediction: {"location":"Launceston","prediction":{"min_temp":14.6,"max_temp":23.7,"min_humidity":40.4,"max_humidity":76}}
+== predict.php STARTED ==
+Raw input: {"day": 1, "month": 1, "site_id": 1}
+Decoded JSON: {"day":1,"month":1,"site_id":1}
+Calling predictWeather(1, 1, 1)
+Prediction: {"location":"Wynyard","prediction":{"min_temp":14.6,"max_temp":19.7,"min_humidity":61.5,"max_humidity":84.1}}
